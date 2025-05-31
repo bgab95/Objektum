@@ -1,1 +1,1 @@
-# Objektum
+Barthel Gábor V56HUH Mérnökinformatikus (Távoktatás)
